@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mi Calculadora</string>
+    <string name="btn_suma">Suma</string>
+    <string name="btn_resta">Resta</string>
+    <string name="btn_producto">Producto</string>
+    <string name="btn_division">Division</string>
+    <string name="default_resultado">0</string>
+    <string name="mostrar_sug">Ingrese numero</string>
+</resources>
